@@ -37,7 +37,8 @@
         "*.test.js"
       ],
       "rules": {
-        "no-underscore-dangle": "off"
+        "no-underscore-dangle": "off",
+        "no-unused-expressions": "off"
       }
     }
   ]
